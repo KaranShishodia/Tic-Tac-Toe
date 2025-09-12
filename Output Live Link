@@ -1,0 +1,35 @@
+# Tic-Tac-Toe Game 🎮
+
+A classic Tic-Tac-Toe game built with **HTML, CSS, and JavaScript**. Play against a friend or just have fun experimenting with the game logic!  
+
+## Live Demo 🌐
+Check out the live version of the game here: [Live Demo](http://127.0.0.1:5500/Events/Tic%20Tac%20Toe/index.html)
+
+## Features ✨
+- Two-player mode
+- Interactive clickable cells
+- Game reset button
+- Responsive design for mobile and desktop
+- Highlights winning combination
+
+## How to Play 🕹️
+1. Open the live demo link or run `index.html` locally.
+2. Players take turns clicking empty cells to place their symbol (X or O).
+3. First player to align three symbols horizontally, vertically, or diagonally wins!
+4. Click "Reset" to start a new game.
+
+## Tech Stack 🛠️
+- HTML5
+- CSS3
+- JavaScript (ES6)
+
+## Screenshots 📸
+![Screenshot 1](path_to_screenshot1.png)
+![Screenshot 2](path_to_screenshot2.png)
+
+## Installation (Optional) 💻
+If you want to run the project locally:
+```bash
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+cd YOUR_REPO
+open index.html
