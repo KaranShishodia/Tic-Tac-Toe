@@ -42,8 +42,13 @@ This file contains the core logic:
 - **`showWinner(winner)`**: Displays a congratulations message with the winner's symbol.
 - **Event Listeners**: Listens for clicks on the game boxes and the reset buttons to trigger game actions.
 
-## Future Improvements
+## Future Improvements<img width="1243" height="814" alt="Screenshot 2025-09-13 093346" src="https://github.com/user-attachments/assets/d5035152-3e5c-48ef-aed7-5acd0b3d32c8" />
+
 
 - Add a draw condition to handle games where no one wins.
 - Implement a single-player mode against an AI opponent.
 - Keep track of scores for multiple games.
+<img width="768" height="879" alt="Screenshot 2025-09-13 093417" src="https://github.com/user-attachments/assets/954bc225-5348-44e4-b73c-b9e19848e01d" />
+
+
+<img width="826" height="735" alt="Screenshot 2025-09-13 093455" src="https://github.com/user-attachments/assets/9aec84ad-e460-458d-8f43-61db6092293a" />
